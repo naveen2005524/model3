@@ -1,6 +1,1 @@
-<center>
-<h1>nnn<h1>
-</center>
-<hr>
-    <p>nnnnn<p>   
-<h>nnnnnn<h>
+nnnn
